@@ -16,7 +16,7 @@ Loss of a private key can mean your crypto funds are locked away for ever or eve
 
 Sharding, or splitting a private key into parts via the Secret Sharing algorithm, means an attacker would have a harder time to acquire many parts of the divided private key to steal funds from the account under attack.
 
-***This quixxi application will - Protecting permanent loss of private key in catastrophic scenarios and increase general private key security.
+***This quixxi application will - Protect permanent loss of private key in catastrophic scenarios and increase general private key security.
 
 Libraries required:
 
