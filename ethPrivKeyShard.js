@@ -25,7 +25,8 @@ http.createServer(function (req, res) {
     key = 'fe1dfcaf50206561e507e9d659bdc8017907d4529f051152978d8df5b7d93328';
     //splitting into 10 shards with a threshold of 5 pieces required for recovery
     // shares are the equivalent of shards or pieces of the private key
-    shares = secrets.share(key, 10, 5);
+    // shares = secrets.share(key, 10, 5);
+    shares = secrets.share(key, 100, 5);
 
     // console.log(shares);
 
