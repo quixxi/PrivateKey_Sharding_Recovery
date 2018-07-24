@@ -9,6 +9,8 @@ Steps.
 3. Enter required threshold recovery shards into ethPrivKeyRecovery.js
 4. Successfully recover your lost Private Key! 
 
+If you clone this repository, just run npm install to get all the required library packages.
+
 The current paradigm has people printing or writing their private key and storing it in one location, usually on their hard drive or written on a piece of paper and stashed away in their bedroom clothes drawers.
 This leaves people vulnerable if their bedroom is raided or they lose their laptop device that has their private key.
 
@@ -27,3 +29,4 @@ Sharding, or splitting a private key into parts via the Secret Sharing algorithm
 Libraries required:
 
 Secrets.js
+Crypto.js
