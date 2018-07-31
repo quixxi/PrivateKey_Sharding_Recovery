@@ -1,6 +1,17 @@
 # PrivateKey_Sharding_Recovery
 Increases wallet/account storage security! PrivateKey Disaster recovery. Covers loss of private key and reduces central point of failure ie (theft, loss of private key).
 
+***SOME GOOD EXAMPLES WITH UI'S TO REFERENCE
+Best one to copy
+https://github.com/fresswolf/shamirgenerator .. also cloned to my repo..
+
+Second best one.
+https://mrdomino.github.io/lockbox/
+https://github.com/mrdomino/lockbox
+
+^^ Although ideally we do not want people entering their private key manually to a text box
+If we can implement a scanner of private key on googledrive or someother specified location that would be great
+
 This application can be used for all cryptocurrency private keys, not only ethereum based tokens.
 
 Steps.
